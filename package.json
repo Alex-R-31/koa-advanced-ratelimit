@@ -1,6 +1,6 @@
 {
 	"name": "koa-advanced-ratelimit",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "An advanced ratelimit package for koa.js",
 	"main": "./index.js",
 	"types": "./index.d.ts",
