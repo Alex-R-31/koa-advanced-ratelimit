@@ -23,8 +23,9 @@
 		"url": "https://github.com/Alex-R-31/koa-advanced-ratelimit/issues"
 	},
 	"homepage": "https://github.com/Alex-R-31/koa-advanced-ratelimit#readme",
-	"dependencies": {
-		"@types/node": "^14.6.0",
+	"dependencies": {},
+	"devDependencies": {
+		"@types/node": "^14.6.2",
 		"koa": "^2.13.0"
 	}
 }
